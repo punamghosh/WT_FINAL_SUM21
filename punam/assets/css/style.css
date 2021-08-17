@@ -1,0 +1,29 @@
+#sideBar{
+	list-style: none;
+	display: inline-block;
+	margin-left: -40px;
+}
+
+
+
+.brownAlert{
+	background-color: #b58383;
+	color: #6d0f0f;
+	padding: 10px;
+	font-weight: bold;
+	border: 1px solid #6d0f0f;
+	border-radius: 5px;
+	/*top: -120px;*/ 
+	position: relative;
+}
+
+.greenAlert{
+	background-color: #7ea184;
+	color: #033e1a;
+	padding: 10px;
+	font-weight: bold;
+	border: 1px solid #033e1a;
+	border-radius: 5px;
+	/*top: -120px;*/ 
+	position: relative;
+}
